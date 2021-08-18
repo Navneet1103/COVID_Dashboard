@@ -1,4 +1,3 @@
-absl-py @ file:///C:/ci/absl-py_1623867339542/work
 aiohttp @ file:///D:/bld/aiohttp_1614281086591/work
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 alembic==1.4.1
