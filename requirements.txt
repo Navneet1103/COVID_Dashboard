@@ -288,7 +288,7 @@ pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
 pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
 pyperclip==1.8.2
 PyQt5==5.12.3
-PyQt5-sip==4.19.18
+PyQt5_sip==4.19.18
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
 pyramid @ file:///C:/ci/pyramid_1619446631519/work
